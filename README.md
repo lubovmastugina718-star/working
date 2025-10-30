@@ -17,3 +17,7 @@ Fix race condition
 ## Update
 
 Fix race condition
+
+## Update
+
+Refactor code structure
