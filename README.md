@@ -21,3 +21,7 @@ Fix race condition
 ## Update
 
 Refactor code structure
+
+## Update
+
+Add new feature
