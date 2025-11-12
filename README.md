@@ -25,3 +25,7 @@ Refactor code structure
 ## Update
 
 Add new feature
+
+## Update
+
+Add configuration options
