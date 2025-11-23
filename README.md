@@ -33,3 +33,5 @@ Add configuration options
 ## Update
 
 Add comments
+
+# Add new feature
