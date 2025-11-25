@@ -35,3 +35,7 @@ Add configuration options
 Add comments
 
 # Add new feature
+
+## Update
+
+Update README with examples
