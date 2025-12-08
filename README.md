@@ -39,3 +39,7 @@ Add comments
 ## Update
 
 Update README with examples
+
+## Update
+
+Update dependencies version
