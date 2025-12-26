@@ -47,3 +47,7 @@ Update dependencies version
 ## Update
 
 Update dependencies
+
+## Update
+
+Fix typo in README
