@@ -51,3 +51,7 @@ Update dependencies
 ## Update
 
 Fix typo in README
+
+## Update
+
+Fix async/await issue
