@@ -55,3 +55,7 @@ Fix typo in README
 ## Update
 
 Fix async/await issue
+
+## Update
+
+Fix memory allocation
