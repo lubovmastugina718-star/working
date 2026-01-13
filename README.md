@@ -59,3 +59,7 @@ Fix async/await issue
 ## Update
 
 Fix memory allocation
+
+## Update
+
+Update dependencies version
