@@ -63,3 +63,7 @@ Fix memory allocation
 ## Update
 
 Update dependencies version
+
+## Update
+
+Add error handling
