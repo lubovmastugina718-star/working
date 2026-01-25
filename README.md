@@ -67,3 +67,7 @@ Update dependencies version
 ## Update
 
 Add error handling
+
+## Update
+
+Add caching mechanism
